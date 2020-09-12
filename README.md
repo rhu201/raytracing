@@ -2,4 +2,4 @@
 
 Raytracer simples, inspirado pelo livro Raytracing in one Weekend, de Peter Shirley.
 
-[Cornel Box 1 Sample] (1sample_cornell.pgm)
+[Cornel Box 1 Sample] (https://github.com/rhu21/raytracing/edit/master/cornell.pgm?raw=true)
