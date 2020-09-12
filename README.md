@@ -16,4 +16,4 @@ Caixa de Cornell com 50 amostras por pixel:
 ![Caixa de Cornell com 50 amostras por pixel](https://github.com/rhu201/raytracing/blob/master/jpg/50samples_cornell.jpg?raw=true)
 
 Homen de neve com 10 amostras, iluminação global:
-![Homen de neve com 10 amostras, iluminação global](https://github.com/rhu201/raytracing/blob/master/jpg/snowman.jpg?raw=true)
+![Homen de neve com 10 amostras, iluminação global](https://github.com/rhu201/raytracing/blob/master/jpg/snowman1.jpg?raw=true)
